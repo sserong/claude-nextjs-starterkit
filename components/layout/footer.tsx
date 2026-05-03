@@ -10,7 +10,7 @@ export function Footer() {
           <div className="col-span-1 md:col-span-2">
             <p className="font-bold text-lg mb-2">StarterKit</p>
             <p className="text-sm text-muted-foreground max-w-xs">
-              느리게 시작하는 웹 개발을 시작할 수 있는 Next.js 모던 스타터킷입니다.
+              빠르게 시작하는 웹 개발을 시작할 수 있는 Next.js 모던 스타터킷입니다.
             </p>
           </div>
 
